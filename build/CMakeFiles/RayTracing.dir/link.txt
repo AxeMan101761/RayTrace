@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/RayTracing.dir/runfiles/main.cpp.o -o RayTracing 
